@@ -1,0 +1,20 @@
+
+clasifica toda la matematica por temas
+Y por creador
+Ordena los temas por prerequisito
+Haz una enciclopedia de matematica en linea!
+Y un libro de practica y enseñanza
+Y un algoritmo que de pruebas y ejercicios random
+Y nuestras explicaciones, Hipervinculos, videos linkeados
+Ordenar los temas por dificultad
+explicar las pruebas y razones de las cosas
+Relaciona los temas (como la relacion entre productos notables y factorizacion)
+Conectar lo que no puede explicar el profe, porque no le da tiempo, o porque no es parte del curriculum
+Una libreria de Java y Python de calculo 3
+programas de visualizacion
+Conectar el curriculum entero de la UTP como una red de conocimiento.
+Apps que enseñen (como enseñar quimica)
+Y todo libre y gratis.
+
+Explicar profundamente, partiendo desde lo fundamental, lo basico
+Explica las cosas en contexto

@@ -11,6 +11,8 @@ TODO mas en español
 [Wikipedia, Productos notables](https://es.wikipedia.org/wiki/Productos_notables)  
 
 ### Trigonometría
+[Identidades Trigonometricas](http://www2.clarku.edu/~djoyce/trig/identities.html)  
+
 #### Funciones trigonométricas
 
 ### Calculo Diferencial

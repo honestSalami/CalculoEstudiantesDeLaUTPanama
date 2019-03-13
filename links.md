@@ -1,5 +1,25 @@
 TODO mas en español
 
+## Por tema
+
+### Algebra
+
+#### Factorización
+
+#### Producto Notable
+[Notable Products](https://www.sangakoo.com/en/unit/notable-products)  
+[Wikipedia, Productos notables](https://es.wikipedia.org/wiki/Productos_notables)  
+
+### Trigonometría
+#### Funciones trigonométricas
+
+### Calculo Diferencial
+#### Limite
+#### Derivadas 
+
+### Calculo Integral
+#### Integrales
+
 ## Por persona
 
 ### Paul's Online Notes
